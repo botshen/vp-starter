@@ -1166,6 +1166,10 @@
   version "0.11.0"
   resolved "https://registry.npmmirror.com/@mdit-vue/types/-/types-0.11.0.tgz"
 
+"@mdit-vue/types@^0.12.0":
+  version "0.12.0"
+  resolved "https://registry.npmmirror.com/@mdit-vue/types/-/types-0.12.0.tgz#096ff57d3590d076f7d7561dbc9956fb0bb89fe1"
+
 "@mermaid-js/mermaid-mindmap@^9.2.2":
   version "9.3.0"
   resolved "https://registry.npmmirror.com/@mermaid-js/mermaid-mindmap/-/mermaid-mindmap-9.3.0.tgz"
@@ -1336,6 +1340,13 @@
   version "0.0.39"
   resolved "https://registry.npmmirror.com/@types/estree/-/estree-0.0.39.tgz"
 
+"@types/fs-extra@^11.0.1":
+  version "11.0.1"
+  resolved "https://registry.npmmirror.com/@types/fs-extra/-/fs-extra-11.0.1.tgz#f542ec47810532a8a252127e6e105f487e0a6ea5"
+  dependencies:
+    "@types/jsonfile" "*"
+    "@types/node" "*"
+
 "@types/fs-extra@^9.0.13":
   version "9.0.13"
   resolved "https://registry.npmmirror.com/@types/fs-extra/-/fs-extra-9.0.13.tgz"
@@ -1353,6 +1364,12 @@
 "@types/json-schema@^7.0.9":
   version "7.0.11"
   resolved "https://registry.npmmirror.com/@types/json-schema/-/json-schema-7.0.11.tgz"
+
+"@types/jsonfile@*":
+  version "6.1.1"
+  resolved "https://registry.npmmirror.com/@types/jsonfile/-/jsonfile-6.1.1.tgz#ac84e9aefa74a2425a0fb3012bdea44f58970f1b"
+  dependencies:
+    "@types/node" "*"
 
 "@types/katex@^0.14.0":
   version "0.14.0"
@@ -1575,6 +1592,10 @@
 "@vue/shared@3.2.45", "@vue/shared@^3.2.45":
   version "3.2.45"
   resolved "https://registry.npmmirror.com/@vue/shared/-/shared-3.2.45.tgz"
+
+"@vue/shared@^3.2.47":
+  version "3.2.47"
+  resolved "https://registry.npmmirror.com/@vue/shared/-/shared-3.2.47.tgz#e597ef75086c6e896ff5478a6bfc0a7aa4bbd14c"
 
 "@vuepress/bundler-vite@2.0.0-beta.59":
   version "2.0.0-beta.59"
@@ -1813,6 +1834,13 @@
     "@mdit-vue/types" "^0.11.0"
     "@vue/shared" "^3.2.45"
 
+"@vuepress/shared@2.0.0-beta.61":
+  version "2.0.0-beta.61"
+  resolved "https://registry.npmmirror.com/@vuepress/shared/-/shared-2.0.0-beta.61.tgz#7342602990ccf3a1a4aefcdbe8315b368ed5602b"
+  dependencies:
+    "@mdit-vue/types" "^0.12.0"
+    "@vue/shared" "^3.2.47"
+
 "@vuepress/theme-default@2.0.0-beta.59":
   version "2.0.0-beta.59"
   resolved "https://registry.npmmirror.com/@vuepress/theme-default/-/theme-default-2.0.0-beta.59.tgz"
@@ -1844,6 +1872,22 @@
     "@types/fs-extra" "^9.0.13"
     "@types/hash-sum" "^1.0.0"
     "@vuepress/shared" "2.0.0-beta.59"
+    debug "^4.3.4"
+    fs-extra "^11.1.0"
+    globby "^13.1.3"
+    hash-sum "^2.0.0"
+    ora "^6.1.2"
+    picocolors "^1.0.0"
+    upath "^2.0.1"
+
+"@vuepress/utils@2.0.0-beta.61":
+  version "2.0.0-beta.61"
+  resolved "https://registry.npmmirror.com/@vuepress/utils/-/utils-2.0.0-beta.61.tgz#a073e1ad22386f1922af3e7ef6220c5286fc5239"
+  dependencies:
+    "@types/debug" "^4.1.7"
+    "@types/fs-extra" "^11.0.1"
+    "@types/hash-sum" "^1.0.0"
+    "@vuepress/shared" "2.0.0-beta.61"
     debug "^4.3.4"
     fs-extra "^11.1.0"
     globby "^13.1.3"
