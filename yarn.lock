@@ -1166,6 +1166,10 @@
   version "0.11.0"
   resolved "https://registry.npmmirror.com/@mdit-vue/types/-/types-0.11.0.tgz"
 
+"@mdit-vue/types@^0.12.0":
+  version "0.12.0"
+  resolved "https://registry.npmmirror.com/@mdit-vue/types/-/types-0.12.0.tgz#096ff57d3590d076f7d7561dbc9956fb0bb89fe1"
+
 "@mermaid-js/mermaid-mindmap@^9.2.2":
   version "9.3.0"
   resolved "https://registry.npmmirror.com/@mermaid-js/mermaid-mindmap/-/mermaid-mindmap-9.3.0.tgz"
@@ -1336,6 +1340,13 @@
   version "0.0.39"
   resolved "https://registry.npmmirror.com/@types/estree/-/estree-0.0.39.tgz"
 
+"@types/fs-extra@^11.0.1":
+  version "11.0.1"
+  resolved "https://registry.npmmirror.com/@types/fs-extra/-/fs-extra-11.0.1.tgz#f542ec47810532a8a252127e6e105f487e0a6ea5"
+  dependencies:
+    "@types/jsonfile" "*"
+    "@types/node" "*"
+
 "@types/fs-extra@^9.0.13":
   version "9.0.13"
   resolved "https://registry.npmmirror.com/@types/fs-extra/-/fs-extra-9.0.13.tgz"
@@ -1353,6 +1364,12 @@
 "@types/json-schema@^7.0.9":
   version "7.0.11"
   resolved "https://registry.npmmirror.com/@types/json-schema/-/json-schema-7.0.11.tgz"
+
+"@types/jsonfile@*":
+  version "6.1.1"
+  resolved "https://registry.npmmirror.com/@types/jsonfile/-/jsonfile-6.1.1.tgz#ac84e9aefa74a2425a0fb3012bdea44f58970f1b"
+  dependencies:
+    "@types/node" "*"
 
 "@types/katex@^0.14.0":
   version "0.14.0"
@@ -1575,6 +1592,10 @@
 "@vue/shared@3.2.45", "@vue/shared@^3.2.45":
   version "3.2.45"
   resolved "https://registry.npmmirror.com/@vue/shared/-/shared-3.2.45.tgz"
+
+"@vue/shared@^3.3.1":
+  version "3.3.1"
+  resolved "https://registry.npmmirror.com/@vue/shared/-/shared-3.3.1.tgz#875a1c1847ec0646fc3dbe5581cb46b49ca3c469"
 
 "@vuepress/bundler-vite@2.0.0-beta.59":
   version "2.0.0-beta.59"
@@ -1813,6 +1834,13 @@
     "@mdit-vue/types" "^0.11.0"
     "@vue/shared" "^3.2.45"
 
+"@vuepress/shared@2.0.0-beta.62":
+  version "2.0.0-beta.62"
+  resolved "https://registry.npmmirror.com/@vuepress/shared/-/shared-2.0.0-beta.62.tgz#f766047e1a17ced9bc96057318760118bf17bc93"
+  dependencies:
+    "@mdit-vue/types" "^0.12.0"
+    "@vue/shared" "^3.3.1"
+
 "@vuepress/theme-default@2.0.0-beta.59":
   version "2.0.0-beta.59"
   resolved "https://registry.npmmirror.com/@vuepress/theme-default/-/theme-default-2.0.0-beta.59.tgz"
@@ -1849,6 +1877,22 @@
     globby "^13.1.3"
     hash-sum "^2.0.0"
     ora "^6.1.2"
+    picocolors "^1.0.0"
+    upath "^2.0.1"
+
+"@vuepress/utils@2.0.0-beta.62":
+  version "2.0.0-beta.62"
+  resolved "https://registry.npmmirror.com/@vuepress/utils/-/utils-2.0.0-beta.62.tgz#d3cda1630161bf5277e68475b4566e48a87e34ee"
+  dependencies:
+    "@types/debug" "^4.1.7"
+    "@types/fs-extra" "^11.0.1"
+    "@types/hash-sum" "^1.0.0"
+    "@vuepress/shared" "2.0.0-beta.62"
+    debug "^4.3.4"
+    fs-extra "^11.1.1"
+    globby "^13.1.4"
+    hash-sum "^2.0.0"
+    ora "^6.3.0"
     picocolors "^1.0.0"
     upath "^2.0.1"
 
@@ -3373,9 +3417,9 @@ fraction.js@^4.2.0:
   version "4.2.0"
   resolved "https://registry.npmmirror.com/fraction.js/-/fraction.js-4.2.0.tgz"
 
-fs-extra@^11.1.0:
-  version "11.1.0"
-  resolved "https://registry.npmmirror.com/fs-extra/-/fs-extra-11.1.0.tgz"
+fs-extra@^11.1.0, fs-extra@^11.1.1:
+  version "11.1.1"
+  resolved "https://registry.npmmirror.com/fs-extra/-/fs-extra-11.1.1.tgz#da69f7c39f3b002378b0954bb6ae7efdc0876e2d"
   dependencies:
     graceful-fs "^4.2.0"
     jsonfile "^6.0.1"
@@ -3531,9 +3575,9 @@ globby@^11.0.4, globby@^11.1.0:
     merge2 "^1.4.1"
     slash "^3.0.0"
 
-globby@^13.1.3:
-  version "13.1.3"
-  resolved "https://registry.npmmirror.com/globby/-/globby-13.1.3.tgz"
+globby@^13.1.3, globby@^13.1.4:
+  version "13.1.4"
+  resolved "https://registry.npmmirror.com/globby/-/globby-13.1.4.tgz#2f91c116066bcec152465ba36e5caa4a13c01317"
   dependencies:
     dir-glob "^3.0.1"
     fast-glob "^3.2.11"
@@ -4767,17 +4811,17 @@ optionator@^0.9.1:
     type-check "^0.4.0"
     word-wrap "^1.2.3"
 
-ora@^6.1.2:
-  version "6.1.2"
-  resolved "https://registry.npmmirror.com/ora/-/ora-6.1.2.tgz"
+ora@^6.1.2, ora@^6.3.0:
+  version "6.3.0"
+  resolved "https://registry.npmmirror.com/ora/-/ora-6.3.0.tgz#a314600999f514a989a0904f5c17c8b7c1f7c878"
   dependencies:
-    bl "^5.0.0"
     chalk "^5.0.0"
     cli-cursor "^4.0.0"
     cli-spinners "^2.6.1"
     is-interactive "^2.0.0"
     is-unicode-supported "^1.1.0"
     log-symbols "^5.1.0"
+    stdin-discarder "^0.1.0"
     strip-ansi "^7.0.1"
     wcwidth "^1.0.1"
 
@@ -5539,6 +5583,12 @@ ssri@^9.0.0:
   resolved "https://registry.npmmirror.com/ssri/-/ssri-9.0.1.tgz"
   dependencies:
     minipass "^3.1.1"
+
+stdin-discarder@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.npmmirror.com/stdin-discarder/-/stdin-discarder-0.1.0.tgz#22b3e400393a8e28ebf53f9958f3880622efde21"
+  dependencies:
+    bl "^5.0.0"
 
 string-argv@^0.3.1:
   version "0.3.1"
