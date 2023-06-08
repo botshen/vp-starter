@@ -349,6 +349,10 @@
   version "7.20.5"
   resolved "https://registry.npmmirror.com/@babel/parser/-/parser-7.20.5.tgz"
 
+"@babel/parser@^7.20.15", "@babel/parser@^7.21.3":
+  version "7.22.4"
+  resolved "https://registry.npmmirror.com/@babel/parser/-/parser-7.22.4.tgz#a770e98fd785c231af9d93f6459d36770993fb32"
+
 "@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression@^7.18.6":
   version "7.18.6"
   resolved "https://registry.npmmirror.com/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression/-/plugin-bugfix-safari-id-destructuring-collision-in-function-expression-7.18.6.tgz"
@@ -936,93 +940,93 @@
     "@docsearch/css" "3.3.0"
     algoliasearch "^4.0.0"
 
-"@esbuild/android-arm64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/android-arm64/-/android-arm64-0.16.10.tgz#d784d8f13dbef50492ea55456fb50651e4036fbf"
+"@esbuild/android-arm64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/android-arm64/-/android-arm64-0.17.19.tgz#bafb75234a5d3d1b690e7c2956a599345e84a2fd"
 
-"@esbuild/android-arm@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/android-arm/-/android-arm-0.16.10.tgz#becf6b5647c091b039121db8c17300a7dfd1ab4a"
+"@esbuild/android-arm@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/android-arm/-/android-arm-0.17.19.tgz#5898f7832c2298bc7d0ab53701c57beb74d78b4d"
 
-"@esbuild/android-x64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/android-x64/-/android-x64-0.16.10.tgz#648cacbb13a5047380a038e5d6d895015e31b525"
+"@esbuild/android-x64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/android-x64/-/android-x64-0.17.19.tgz#658368ef92067866d95fb268719f98f363d13ae1"
 
-"@esbuild/darwin-arm64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/darwin-arm64/-/darwin-arm64-0.16.10.tgz"
+"@esbuild/darwin-arm64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/darwin-arm64/-/darwin-arm64-0.17.19.tgz#584c34c5991b95d4d48d333300b1a4e2ff7be276"
 
-"@esbuild/darwin-x64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/darwin-x64/-/darwin-x64-0.16.10.tgz#7eb71b8da4106627f01553def517d3c5e5942592"
+"@esbuild/darwin-x64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/darwin-x64/-/darwin-x64-0.17.19.tgz#7751d236dfe6ce136cce343dce69f52d76b7f6cb"
 
-"@esbuild/freebsd-arm64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/freebsd-arm64/-/freebsd-arm64-0.16.10.tgz#c69c78ee1d17d35ad2cf76a1bb67788000a84b43"
+"@esbuild/freebsd-arm64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/freebsd-arm64/-/freebsd-arm64-0.17.19.tgz#cacd171665dd1d500f45c167d50c6b7e539d5fd2"
 
-"@esbuild/freebsd-x64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/freebsd-x64/-/freebsd-x64-0.16.10.tgz#a9804ab1b9366f915812af24ad5cfc1c0db01441"
+"@esbuild/freebsd-x64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/freebsd-x64/-/freebsd-x64-0.17.19.tgz#0769456eee2a08b8d925d7c00b79e861cb3162e4"
 
-"@esbuild/linux-arm64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/linux-arm64/-/linux-arm64-0.16.10.tgz#d9a9ddfcb28ed8cced688bc112ef66283d6fa77f"
+"@esbuild/linux-arm64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/linux-arm64/-/linux-arm64-0.17.19.tgz#38e162ecb723862c6be1c27d6389f48960b68edb"
 
-"@esbuild/linux-arm@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/linux-arm/-/linux-arm-0.16.10.tgz#f32cdac1d3319c83ae7f9f31238dd1284ee6bba2"
+"@esbuild/linux-arm@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/linux-arm/-/linux-arm-0.17.19.tgz#1a2cd399c50040184a805174a6d89097d9d1559a"
 
-"@esbuild/linux-ia32@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/linux-ia32/-/linux-ia32-0.16.10.tgz#1e023478e42f3a01cad48f4af50120d4b639af03"
+"@esbuild/linux-ia32@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/linux-ia32/-/linux-ia32-0.17.19.tgz#e28c25266b036ce1cabca3c30155222841dc035a"
 
-"@esbuild/linux-loong64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/linux-loong64/-/linux-loong64-0.16.10.tgz#f9098865a69d1d6e2f8bda51c7f9d4240f20b771"
+"@esbuild/linux-loong64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/linux-loong64/-/linux-loong64-0.17.19.tgz#0f887b8bb3f90658d1a0117283e55dbd4c9dcf72"
 
-"@esbuild/linux-mips64el@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/linux-mips64el/-/linux-mips64el-0.16.10.tgz#574725ad2ea81b7783b7ba7d1ab3475f8fdd8d32"
+"@esbuild/linux-mips64el@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/linux-mips64el/-/linux-mips64el-0.17.19.tgz#f5d2a0b8047ea9a5d9f592a178ea054053a70289"
 
-"@esbuild/linux-ppc64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/linux-ppc64/-/linux-ppc64-0.16.10.tgz#11da658c54514a693813af56bb28951d563a90c3"
+"@esbuild/linux-ppc64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/linux-ppc64/-/linux-ppc64-0.17.19.tgz#876590e3acbd9fa7f57a2c7d86f83717dbbac8c7"
 
-"@esbuild/linux-riscv64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/linux-riscv64/-/linux-riscv64-0.16.10.tgz#3af4600adbd6c5a4a6f1da05771f4aa6774baab2"
+"@esbuild/linux-riscv64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/linux-riscv64/-/linux-riscv64-0.17.19.tgz#7f49373df463cd9f41dc34f9b2262d771688bf09"
 
-"@esbuild/linux-s390x@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/linux-s390x/-/linux-s390x-0.16.10.tgz#9e3377aaf0191a9d6628e806a279085ec4391f3e"
+"@esbuild/linux-s390x@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/linux-s390x/-/linux-s390x-0.17.19.tgz#e2afd1afcaf63afe2c7d9ceacd28ec57c77f8829"
 
-"@esbuild/linux-x64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/linux-x64/-/linux-x64-0.16.10.tgz#7c41d4d697ce674e0083e7baa6231468f4650d85"
+"@esbuild/linux-x64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/linux-x64/-/linux-x64-0.17.19.tgz#8a0e9738b1635f0c53389e515ae83826dec22aa4"
 
-"@esbuild/netbsd-x64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/netbsd-x64/-/netbsd-x64-0.16.10.tgz#ebac59e3986834af04bbafcee7b0c1f31cd477c6"
+"@esbuild/netbsd-x64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/netbsd-x64/-/netbsd-x64-0.17.19.tgz#c29fb2453c6b7ddef9a35e2c18b37bda1ae5c462"
 
-"@esbuild/openbsd-x64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/openbsd-x64/-/openbsd-x64-0.16.10.tgz#9eaa6cac3b80db45090c0946e62de5b5689c61d1"
+"@esbuild/openbsd-x64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/openbsd-x64/-/openbsd-x64-0.17.19.tgz#95e75a391403cb10297280d524d66ce04c920691"
 
-"@esbuild/sunos-x64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/sunos-x64/-/sunos-x64-0.16.10.tgz#31e5e4b814ef43d300e26511e486a4716a390d5f"
+"@esbuild/sunos-x64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/sunos-x64/-/sunos-x64-0.17.19.tgz#722eaf057b83c2575937d3ffe5aeb16540da7273"
 
-"@esbuild/win32-arm64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/win32-arm64/-/win32-arm64-0.16.10.tgz#ca58472dc03ca79e6d03f8a31113979ff253d94f"
+"@esbuild/win32-arm64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/win32-arm64/-/win32-arm64-0.17.19.tgz#9aa9dc074399288bdcdd283443e9aeb6b9552b6f"
 
-"@esbuild/win32-ia32@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/win32-ia32/-/win32-ia32-0.16.10.tgz#c572df2c65ab118feed0a5da5a4a193846d74e43"
+"@esbuild/win32-ia32@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/win32-ia32/-/win32-ia32-0.17.19.tgz#95ad43c62ad62485e210f6299c7b2571e48d2b03"
 
-"@esbuild/win32-x64@0.16.10":
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/@esbuild/win32-x64/-/win32-x64-0.16.10.tgz#0e9c6a5e69c10d96aff2386b7ee9646138c2a831"
+"@esbuild/win32-x64@0.17.19":
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/@esbuild/win32-x64/-/win32-x64-0.17.19.tgz#8cfaf2ff603e9aabb910e9c0558c26cf32744061"
 
 "@eslint/eslintrc@^1.4.0":
   version "1.4.0"
@@ -1092,6 +1096,10 @@
   version "1.4.14"
   resolved "https://registry.npmmirror.com/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.14.tgz"
 
+"@jridgewell/sourcemap-codec@^1.4.13":
+  version "1.4.15"
+  resolved "https://registry.npmmirror.com/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.15.tgz#d7c6e6755c78567a951e04ab52ef0fd26de59f32"
+
 "@jridgewell/trace-mapping@^0.3.9":
   version "0.3.17"
   resolved "https://registry.npmmirror.com/@jridgewell/trace-mapping/-/trace-mapping-0.3.17.tgz"
@@ -1110,11 +1118,27 @@
     "@types/markdown-it" "^12.2.3"
     markdown-it "^13.0.1"
 
+"@mdit-vue/plugin-component@^0.12.0":
+  version "0.12.0"
+  resolved "https://registry.npmmirror.com/@mdit-vue/plugin-component/-/plugin-component-0.12.0.tgz#7a52837935e2cbc9b6cf22fd5f9349f6199fc18c"
+  dependencies:
+    "@types/markdown-it" "^12.2.3"
+    markdown-it "^13.0.1"
+
 "@mdit-vue/plugin-frontmatter@^0.11.1":
   version "0.11.1"
   resolved "https://registry.npmmirror.com/@mdit-vue/plugin-frontmatter/-/plugin-frontmatter-0.11.1.tgz"
   dependencies:
     "@mdit-vue/types" "0.11.0"
+    "@types/markdown-it" "^12.2.3"
+    gray-matter "^4.0.3"
+    markdown-it "^13.0.1"
+
+"@mdit-vue/plugin-frontmatter@^0.12.0":
+  version "0.12.0"
+  resolved "https://registry.npmmirror.com/@mdit-vue/plugin-frontmatter/-/plugin-frontmatter-0.12.0.tgz#fb344646241bed1bae5f8bd320c7b2f493bd8b67"
+  dependencies:
+    "@mdit-vue/types" "0.12.0"
     "@types/markdown-it" "^12.2.3"
     gray-matter "^4.0.3"
     markdown-it "^13.0.1"
@@ -1128,11 +1152,28 @@
     "@types/markdown-it" "^12.2.3"
     markdown-it "^13.0.1"
 
+"@mdit-vue/plugin-headers@^0.12.0":
+  version "0.12.0"
+  resolved "https://registry.npmmirror.com/@mdit-vue/plugin-headers/-/plugin-headers-0.12.0.tgz#c16921e071b2766fd04a703d8d42ead00561f44c"
+  dependencies:
+    "@mdit-vue/shared" "0.12.0"
+    "@mdit-vue/types" "0.12.0"
+    "@types/markdown-it" "^12.2.3"
+    markdown-it "^13.0.1"
+
 "@mdit-vue/plugin-sfc@^0.11.1":
   version "0.11.1"
   resolved "https://registry.npmmirror.com/@mdit-vue/plugin-sfc/-/plugin-sfc-0.11.1.tgz"
   dependencies:
     "@mdit-vue/types" "0.11.0"
+    "@types/markdown-it" "^12.2.3"
+    markdown-it "^13.0.1"
+
+"@mdit-vue/plugin-sfc@^0.12.0":
+  version "0.12.0"
+  resolved "https://registry.npmmirror.com/@mdit-vue/plugin-sfc/-/plugin-sfc-0.12.0.tgz#2932c333657ddaf6d76664118b83c93d5dd4f727"
+  dependencies:
+    "@mdit-vue/types" "0.12.0"
     "@types/markdown-it" "^12.2.3"
     markdown-it "^13.0.1"
 
@@ -1145,12 +1186,30 @@
     "@types/markdown-it" "^12.2.3"
     markdown-it "^13.0.1"
 
+"@mdit-vue/plugin-title@^0.12.0":
+  version "0.12.0"
+  resolved "https://registry.npmmirror.com/@mdit-vue/plugin-title/-/plugin-title-0.12.0.tgz#e69f33036972a7a67c3321647bdbcb1b9a5b6f4e"
+  dependencies:
+    "@mdit-vue/shared" "0.12.0"
+    "@mdit-vue/types" "0.12.0"
+    "@types/markdown-it" "^12.2.3"
+    markdown-it "^13.0.1"
+
 "@mdit-vue/plugin-toc@^0.11.1":
   version "0.11.1"
   resolved "https://registry.npmmirror.com/@mdit-vue/plugin-toc/-/plugin-toc-0.11.1.tgz"
   dependencies:
     "@mdit-vue/shared" "0.11.0"
     "@mdit-vue/types" "0.11.0"
+    "@types/markdown-it" "^12.2.3"
+    markdown-it "^13.0.1"
+
+"@mdit-vue/plugin-toc@^0.12.0":
+  version "0.12.0"
+  resolved "https://registry.npmmirror.com/@mdit-vue/plugin-toc/-/plugin-toc-0.12.0.tgz#bf8c4c4d13dc9ef8dc3c4b8213e3846312cca7f3"
+  dependencies:
+    "@mdit-vue/shared" "0.12.0"
+    "@mdit-vue/types" "0.12.0"
     "@types/markdown-it" "^12.2.3"
     markdown-it "^13.0.1"
 
@@ -1162,9 +1221,21 @@
     "@types/markdown-it" "^12.2.3"
     markdown-it "^13.0.1"
 
+"@mdit-vue/shared@0.12.0", "@mdit-vue/shared@^0.12.0":
+  version "0.12.0"
+  resolved "https://registry.npmmirror.com/@mdit-vue/shared/-/shared-0.12.0.tgz#e4e7d5ffb362dedb92b161fcbf05e81a3d2ac143"
+  dependencies:
+    "@mdit-vue/types" "0.12.0"
+    "@types/markdown-it" "^12.2.3"
+    markdown-it "^13.0.1"
+
 "@mdit-vue/types@0.11.0", "@mdit-vue/types@^0.11.0":
   version "0.11.0"
   resolved "https://registry.npmmirror.com/@mdit-vue/types/-/types-0.11.0.tgz"
+
+"@mdit-vue/types@0.12.0", "@mdit-vue/types@^0.12.0":
+  version "0.12.0"
+  resolved "https://registry.npmmirror.com/@mdit-vue/types/-/types-0.12.0.tgz#096ff57d3590d076f7d7561dbc9956fb0bb89fe1"
 
 "@mermaid-js/mermaid-mindmap@^9.2.2":
   version "9.3.0"
@@ -1332,9 +1403,22 @@
   dependencies:
     "@types/ms" "*"
 
+"@types/debug@^4.1.8":
+  version "4.1.8"
+  resolved "https://registry.npmmirror.com/@types/debug/-/debug-4.1.8.tgz#cef723a5d0a90990313faec2d1e22aee5eecb317"
+  dependencies:
+    "@types/ms" "*"
+
 "@types/estree@0.0.39":
   version "0.0.39"
   resolved "https://registry.npmmirror.com/@types/estree/-/estree-0.0.39.tgz"
+
+"@types/fs-extra@^11.0.1":
+  version "11.0.1"
+  resolved "https://registry.npmmirror.com/@types/fs-extra/-/fs-extra-11.0.1.tgz#f542ec47810532a8a252127e6e105f487e0a6ea5"
+  dependencies:
+    "@types/jsonfile" "*"
+    "@types/node" "*"
 
 "@types/fs-extra@^9.0.13":
   version "9.0.13"
@@ -1353,6 +1437,12 @@
 "@types/json-schema@^7.0.9":
   version "7.0.11"
   resolved "https://registry.npmmirror.com/@types/json-schema/-/json-schema-7.0.11.tgz"
+
+"@types/jsonfile@*":
+  version "6.1.1"
+  resolved "https://registry.npmmirror.com/@types/jsonfile/-/jsonfile-6.1.1.tgz#ac84e9aefa74a2425a0fb3012bdea44f58970f1b"
+  dependencies:
+    "@types/node" "*"
 
 "@types/katex@^0.14.0":
   version "0.14.0"
@@ -1408,6 +1498,10 @@
 "@types/web-bluetooth@^0.0.16":
   version "0.0.16"
   resolved "https://registry.npmmirror.com/@types/web-bluetooth/-/web-bluetooth-0.0.16.tgz"
+
+"@types/web-bluetooth@^0.0.17":
+  version "0.0.17"
+  resolved "https://registry.npmmirror.com/@types/web-bluetooth/-/web-bluetooth-0.0.17.tgz#5c9f3c617f64a9735d7b72a7cc671e166d900c40"
 
 "@typescript-eslint/eslint-plugin@5.47.0":
   version "5.47.0"
@@ -1484,9 +1578,9 @@
     "@typescript-eslint/types" "5.47.0"
     eslint-visitor-keys "^3.3.0"
 
-"@vitejs/plugin-vue@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.npmmirror.com/@vitejs/plugin-vue/-/plugin-vue-4.0.0.tgz"
+"@vitejs/plugin-vue@^4.2.3":
+  version "4.2.3"
+  resolved "https://registry.npmmirror.com/@vitejs/plugin-vue/-/plugin-vue-4.2.3.tgz#ee0b6dfcc62fe65364e6395bf38fa2ba10bb44b6"
 
 "@vue/compiler-core@3.2.45":
   version "3.2.45"
@@ -1497,12 +1591,28 @@
     estree-walker "^2.0.2"
     source-map "^0.6.1"
 
+"@vue/compiler-core@3.3.4":
+  version "3.3.4"
+  resolved "https://registry.npmmirror.com/@vue/compiler-core/-/compiler-core-3.3.4.tgz#7fbf591c1c19e1acd28ffd284526e98b4f581128"
+  dependencies:
+    "@babel/parser" "^7.21.3"
+    "@vue/shared" "3.3.4"
+    estree-walker "^2.0.2"
+    source-map-js "^1.0.2"
+
 "@vue/compiler-dom@3.2.45":
   version "3.2.45"
   resolved "https://registry.npmmirror.com/@vue/compiler-dom/-/compiler-dom-3.2.45.tgz"
   dependencies:
     "@vue/compiler-core" "3.2.45"
     "@vue/shared" "3.2.45"
+
+"@vue/compiler-dom@3.3.4":
+  version "3.3.4"
+  resolved "https://registry.npmmirror.com/@vue/compiler-dom/-/compiler-dom-3.3.4.tgz#f56e09b5f4d7dc350f981784de9713d823341151"
+  dependencies:
+    "@vue/compiler-core" "3.3.4"
+    "@vue/shared" "3.3.4"
 
 "@vue/compiler-sfc@3.2.45":
   version "3.2.45"
@@ -1519,6 +1629,21 @@
     postcss "^8.1.10"
     source-map "^0.6.1"
 
+"@vue/compiler-sfc@3.3.4":
+  version "3.3.4"
+  resolved "https://registry.npmmirror.com/@vue/compiler-sfc/-/compiler-sfc-3.3.4.tgz#b19d942c71938893535b46226d602720593001df"
+  dependencies:
+    "@babel/parser" "^7.20.15"
+    "@vue/compiler-core" "3.3.4"
+    "@vue/compiler-dom" "3.3.4"
+    "@vue/compiler-ssr" "3.3.4"
+    "@vue/reactivity-transform" "3.3.4"
+    "@vue/shared" "3.3.4"
+    estree-walker "^2.0.2"
+    magic-string "^0.30.0"
+    postcss "^8.1.10"
+    source-map-js "^1.0.2"
+
 "@vue/compiler-ssr@3.2.45":
   version "3.2.45"
   resolved "https://registry.npmmirror.com/@vue/compiler-ssr/-/compiler-ssr-3.2.45.tgz"
@@ -1526,9 +1651,20 @@
     "@vue/compiler-dom" "3.2.45"
     "@vue/shared" "3.2.45"
 
+"@vue/compiler-ssr@3.3.4":
+  version "3.3.4"
+  resolved "https://registry.npmmirror.com/@vue/compiler-ssr/-/compiler-ssr-3.3.4.tgz#9d1379abffa4f2b0cd844174ceec4a9721138777"
+  dependencies:
+    "@vue/compiler-dom" "3.3.4"
+    "@vue/shared" "3.3.4"
+
 "@vue/devtools-api@^6.4.5":
   version "6.4.5"
   resolved "https://registry.npmmirror.com/@vue/devtools-api/-/devtools-api-6.4.5.tgz"
+
+"@vue/devtools-api@^6.5.0":
+  version "6.5.0"
+  resolved "https://registry.npmmirror.com/@vue/devtools-api/-/devtools-api-6.5.0.tgz#98b99425edee70b4c992692628fa1ea2c1e57d07"
 
 "@vue/reactivity-transform@3.2.45":
   version "3.2.45"
@@ -1540,11 +1676,27 @@
     estree-walker "^2.0.2"
     magic-string "^0.25.7"
 
+"@vue/reactivity-transform@3.3.4":
+  version "3.3.4"
+  resolved "https://registry.npmmirror.com/@vue/reactivity-transform/-/reactivity-transform-3.3.4.tgz#52908476e34d6a65c6c21cd2722d41ed8ae51929"
+  dependencies:
+    "@babel/parser" "^7.20.15"
+    "@vue/compiler-core" "3.3.4"
+    "@vue/shared" "3.3.4"
+    estree-walker "^2.0.2"
+    magic-string "^0.30.0"
+
 "@vue/reactivity@3.2.45":
   version "3.2.45"
   resolved "https://registry.npmmirror.com/@vue/reactivity/-/reactivity-3.2.45.tgz"
   dependencies:
     "@vue/shared" "3.2.45"
+
+"@vue/reactivity@3.3.4":
+  version "3.3.4"
+  resolved "https://registry.npmmirror.com/@vue/reactivity/-/reactivity-3.3.4.tgz#a27a29c6cd17faba5a0e99fbb86ee951653e2253"
+  dependencies:
+    "@vue/shared" "3.3.4"
 
 "@vue/repl@^1.3.2":
   version "1.3.2"
@@ -1557,6 +1709,13 @@
     "@vue/reactivity" "3.2.45"
     "@vue/shared" "3.2.45"
 
+"@vue/runtime-core@3.3.4":
+  version "3.3.4"
+  resolved "https://registry.npmmirror.com/@vue/runtime-core/-/runtime-core-3.3.4.tgz#4bb33872bbb583721b340f3088888394195967d1"
+  dependencies:
+    "@vue/reactivity" "3.3.4"
+    "@vue/shared" "3.3.4"
+
 "@vue/runtime-dom@3.2.45":
   version "3.2.45"
   resolved "https://registry.npmmirror.com/@vue/runtime-dom/-/runtime-dom-3.2.45.tgz"
@@ -1565,6 +1724,14 @@
     "@vue/shared" "3.2.45"
     csstype "^2.6.8"
 
+"@vue/runtime-dom@3.3.4":
+  version "3.3.4"
+  resolved "https://registry.npmmirror.com/@vue/runtime-dom/-/runtime-dom-3.3.4.tgz#992f2579d0ed6ce961f47bbe9bfe4b6791251566"
+  dependencies:
+    "@vue/runtime-core" "3.3.4"
+    "@vue/shared" "3.3.4"
+    csstype "^3.1.1"
+
 "@vue/server-renderer@3.2.45":
   version "3.2.45"
   resolved "https://registry.npmmirror.com/@vue/server-renderer/-/server-renderer-3.2.45.tgz"
@@ -1572,39 +1739,50 @@
     "@vue/compiler-ssr" "3.2.45"
     "@vue/shared" "3.2.45"
 
+"@vue/server-renderer@3.3.4":
+  version "3.3.4"
+  resolved "https://registry.npmmirror.com/@vue/server-renderer/-/server-renderer-3.3.4.tgz#ea46594b795d1536f29bc592dd0f6655f7ea4c4c"
+  dependencies:
+    "@vue/compiler-ssr" "3.3.4"
+    "@vue/shared" "3.3.4"
+
 "@vue/shared@3.2.45", "@vue/shared@^3.2.45":
   version "3.2.45"
   resolved "https://registry.npmmirror.com/@vue/shared/-/shared-3.2.45.tgz"
 
-"@vuepress/bundler-vite@2.0.0-beta.59":
-  version "2.0.0-beta.59"
-  resolved "https://registry.npmmirror.com/@vuepress/bundler-vite/-/bundler-vite-2.0.0-beta.59.tgz"
-  dependencies:
-    "@vitejs/plugin-vue" "^4.0.0"
-    "@vuepress/client" "2.0.0-beta.59"
-    "@vuepress/core" "2.0.0-beta.59"
-    "@vuepress/shared" "2.0.0-beta.59"
-    "@vuepress/utils" "2.0.0-beta.59"
-    autoprefixer "^10.4.13"
-    connect-history-api-fallback "^2.0.0"
-    postcss "^8.4.20"
-    postcss-load-config "^4.0.1"
-    rollup "^3.7.4"
-    vite "~4.0.1"
-    vue "^3.2.45"
-    vue-router "^4.1.6"
+"@vue/shared@3.3.4", "@vue/shared@^3.3.4":
+  version "3.3.4"
+  resolved "https://registry.npmmirror.com/@vue/shared/-/shared-3.3.4.tgz#06e83c5027f464eef861c329be81454bc8b70780"
 
-"@vuepress/cli@2.0.0-beta.59":
-  version "2.0.0-beta.59"
-  resolved "https://registry.npmmirror.com/@vuepress/cli/-/cli-2.0.0-beta.59.tgz"
+"@vuepress/bundler-vite@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/bundler-vite/-/bundler-vite-2.0.0-beta.63.tgz#47e76f357efabe46d6f4884e3a6cd228df88ff26"
   dependencies:
-    "@vuepress/core" "2.0.0-beta.59"
-    "@vuepress/shared" "2.0.0-beta.59"
-    "@vuepress/utils" "2.0.0-beta.59"
+    "@vitejs/plugin-vue" "^4.2.3"
+    "@vuepress/client" "2.0.0-beta.63"
+    "@vuepress/core" "2.0.0-beta.63"
+    "@vuepress/shared" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
+    autoprefixer "^10.4.14"
+    connect-history-api-fallback "^2.0.0"
+    postcss "^8.4.24"
+    postcss-load-config "^4.0.1"
+    rollup "^3.24.0"
+    vite "~4.3.9"
+    vue "^3.3.4"
+    vue-router "^4.2.2"
+
+"@vuepress/cli@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/cli/-/cli-2.0.0-beta.63.tgz#48ebbcc9010e5ef7bd36c3d29acdfc3d54f19ef3"
+  dependencies:
+    "@vuepress/core" "2.0.0-beta.63"
+    "@vuepress/shared" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
     cac "^6.7.14"
     chokidar "^3.5.3"
     envinfo "^7.8.1"
-    esbuild "^0.16.5"
+    esbuild "~0.17.19"
 
 "@vuepress/client@2.0.0-beta.59":
   version "2.0.0-beta.59"
@@ -1615,6 +1793,15 @@
     vue "^3.2.45"
     vue-router "^4.1.6"
 
+"@vuepress/client@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/client/-/client-2.0.0-beta.63.tgz#a5182087609b94657ae54a3c4b993a71f65de0cd"
+  dependencies:
+    "@vue/devtools-api" "^6.5.0"
+    "@vuepress/shared" "2.0.0-beta.63"
+    vue "^3.3.4"
+    vue-router "^4.2.2"
+
 "@vuepress/core@2.0.0-beta.59":
   version "2.0.0-beta.59"
   resolved "https://registry.npmmirror.com/@vuepress/core/-/core-2.0.0-beta.59.tgz"
@@ -1624,6 +1811,16 @@
     "@vuepress/shared" "2.0.0-beta.59"
     "@vuepress/utils" "2.0.0-beta.59"
     vue "^3.2.45"
+
+"@vuepress/core@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/core/-/core-2.0.0-beta.63.tgz#a75a2c9e964d8c3f0dc13bab22c1dcfae09976cb"
+  dependencies:
+    "@vuepress/client" "2.0.0-beta.63"
+    "@vuepress/markdown" "2.0.0-beta.63"
+    "@vuepress/shared" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
+    vue "^3.3.4"
 
 "@vuepress/markdown@2.0.0-beta.59":
   version "2.0.0-beta.59"
@@ -1646,36 +1843,57 @@
     markdown-it-emoji "^2.0.2"
     mdurl "^1.0.1"
 
-"@vuepress/plugin-active-header-links@2.0.0-beta.59":
-  version "2.0.0-beta.59"
-  resolved "https://registry.npmmirror.com/@vuepress/plugin-active-header-links/-/plugin-active-header-links-2.0.0-beta.59.tgz"
+"@vuepress/markdown@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/markdown/-/markdown-2.0.0-beta.63.tgz#9d34dc953c54489a055d9f95cc18e50a0df208b3"
   dependencies:
-    "@vuepress/client" "2.0.0-beta.59"
-    "@vuepress/core" "2.0.0-beta.59"
-    "@vuepress/utils" "2.0.0-beta.59"
-    ts-debounce "^4.0.0"
-    vue "^3.2.45"
-    vue-router "^4.1.6"
+    "@mdit-vue/plugin-component" "^0.12.0"
+    "@mdit-vue/plugin-frontmatter" "^0.12.0"
+    "@mdit-vue/plugin-headers" "^0.12.0"
+    "@mdit-vue/plugin-sfc" "^0.12.0"
+    "@mdit-vue/plugin-title" "^0.12.0"
+    "@mdit-vue/plugin-toc" "^0.12.0"
+    "@mdit-vue/shared" "^0.12.0"
+    "@mdit-vue/types" "^0.12.0"
+    "@types/markdown-it" "^12.2.3"
+    "@types/markdown-it-emoji" "^2.0.2"
+    "@vuepress/shared" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
+    markdown-it "^13.0.1"
+    markdown-it-anchor "^8.6.7"
+    markdown-it-emoji "^2.0.2"
+    mdurl "^1.0.1"
 
-"@vuepress/plugin-back-to-top@2.0.0-beta.59":
-  version "2.0.0-beta.59"
-  resolved "https://registry.npmmirror.com/@vuepress/plugin-back-to-top/-/plugin-back-to-top-2.0.0-beta.59.tgz"
+"@vuepress/plugin-active-header-links@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/plugin-active-header-links/-/plugin-active-header-links-2.0.0-beta.63.tgz#b4c8884f3ca2258e606824c455ed7a046a9d45b6"
   dependencies:
-    "@vuepress/client" "2.0.0-beta.59"
-    "@vuepress/core" "2.0.0-beta.59"
-    "@vuepress/utils" "2.0.0-beta.59"
+    "@vuepress/client" "2.0.0-beta.63"
+    "@vuepress/core" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
     ts-debounce "^4.0.0"
-    vue "^3.2.45"
+    vue "^3.3.4"
+    vue-router "^4.2.2"
 
-"@vuepress/plugin-container@2.0.0-beta.59":
-  version "2.0.0-beta.59"
-  resolved "https://registry.npmmirror.com/@vuepress/plugin-container/-/plugin-container-2.0.0-beta.59.tgz"
+"@vuepress/plugin-back-to-top@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/plugin-back-to-top/-/plugin-back-to-top-2.0.0-beta.63.tgz#a77388e04ce13d056f8ba1fc2d037a7ea216db64"
+  dependencies:
+    "@vuepress/client" "2.0.0-beta.63"
+    "@vuepress/core" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
+    ts-debounce "^4.0.0"
+    vue "^3.3.4"
+
+"@vuepress/plugin-container@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/plugin-container/-/plugin-container-2.0.0-beta.63.tgz#c8c406b749ef646d08f43b99ca7321748e611c24"
   dependencies:
     "@types/markdown-it" "^12.2.3"
-    "@vuepress/core" "2.0.0-beta.59"
-    "@vuepress/markdown" "2.0.0-beta.59"
-    "@vuepress/shared" "2.0.0-beta.59"
-    "@vuepress/utils" "2.0.0-beta.59"
+    "@vuepress/core" "2.0.0-beta.63"
+    "@vuepress/markdown" "2.0.0-beta.63"
+    "@vuepress/shared" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
     markdown-it "^13.0.1"
     markdown-it-container "^3.0.0"
 
@@ -1694,24 +1912,24 @@
     vue "^3.2.45"
     vue-router "^4.1.6"
 
-"@vuepress/plugin-external-link-icon@2.0.0-beta.59":
-  version "2.0.0-beta.59"
-  resolved "https://registry.npmmirror.com/@vuepress/plugin-external-link-icon/-/plugin-external-link-icon-2.0.0-beta.59.tgz"
+"@vuepress/plugin-external-link-icon@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/plugin-external-link-icon/-/plugin-external-link-icon-2.0.0-beta.63.tgz#5abc3c8fddf79f138c080aa70c17fd50658dd27e"
   dependencies:
-    "@vuepress/client" "2.0.0-beta.59"
-    "@vuepress/core" "2.0.0-beta.59"
-    "@vuepress/markdown" "2.0.0-beta.59"
-    "@vuepress/shared" "2.0.0-beta.59"
-    "@vuepress/utils" "2.0.0-beta.59"
-    vue "^3.2.45"
+    "@vuepress/client" "2.0.0-beta.63"
+    "@vuepress/core" "2.0.0-beta.63"
+    "@vuepress/markdown" "2.0.0-beta.63"
+    "@vuepress/shared" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
+    vue "^3.3.4"
 
-"@vuepress/plugin-git@2.0.0-beta.59":
-  version "2.0.0-beta.59"
-  resolved "https://registry.npmmirror.com/@vuepress/plugin-git/-/plugin-git-2.0.0-beta.59.tgz"
+"@vuepress/plugin-git@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/plugin-git/-/plugin-git-2.0.0-beta.63.tgz#f375ac8a39c716626bfdd16eac4403a74b97a040"
   dependencies:
-    "@vuepress/core" "2.0.0-beta.59"
-    "@vuepress/utils" "2.0.0-beta.59"
-    execa "^6.1.0"
+    "@vuepress/core" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
+    execa "^7.1.1"
 
 "@vuepress/plugin-google-analytics@2.0.0-beta.59":
   version "2.0.0-beta.59"
@@ -1721,32 +1939,32 @@
     "@vuepress/core" "2.0.0-beta.59"
     "@vuepress/utils" "2.0.0-beta.59"
 
-"@vuepress/plugin-medium-zoom@2.0.0-beta.59":
-  version "2.0.0-beta.59"
-  resolved "https://registry.npmmirror.com/@vuepress/plugin-medium-zoom/-/plugin-medium-zoom-2.0.0-beta.59.tgz"
+"@vuepress/plugin-medium-zoom@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/plugin-medium-zoom/-/plugin-medium-zoom-2.0.0-beta.63.tgz#67179296571cac114eb4484aca7939ed1285a1da"
   dependencies:
-    "@vuepress/client" "2.0.0-beta.59"
-    "@vuepress/core" "2.0.0-beta.59"
-    "@vuepress/utils" "2.0.0-beta.59"
+    "@vuepress/client" "2.0.0-beta.63"
+    "@vuepress/core" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
     medium-zoom "^1.0.8"
-    vue "^3.2.45"
+    vue "^3.3.4"
 
-"@vuepress/plugin-nprogress@2.0.0-beta.59":
-  version "2.0.0-beta.59"
-  resolved "https://registry.npmmirror.com/@vuepress/plugin-nprogress/-/plugin-nprogress-2.0.0-beta.59.tgz"
+"@vuepress/plugin-nprogress@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/plugin-nprogress/-/plugin-nprogress-2.0.0-beta.63.tgz#aa7532bcd021a62dd4f04db85ddb07f745c57f0e"
   dependencies:
-    "@vuepress/client" "2.0.0-beta.59"
-    "@vuepress/core" "2.0.0-beta.59"
-    "@vuepress/utils" "2.0.0-beta.59"
-    vue "^3.2.45"
-    vue-router "^4.1.6"
+    "@vuepress/client" "2.0.0-beta.63"
+    "@vuepress/core" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
+    vue "^3.3.4"
+    vue-router "^4.2.2"
 
-"@vuepress/plugin-palette@2.0.0-beta.59":
-  version "2.0.0-beta.59"
-  resolved "https://registry.npmmirror.com/@vuepress/plugin-palette/-/plugin-palette-2.0.0-beta.59.tgz"
+"@vuepress/plugin-palette@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/plugin-palette/-/plugin-palette-2.0.0-beta.63.tgz#29aa8775aeee278f59fb06d8ee5e4af4d328973a"
   dependencies:
-    "@vuepress/core" "2.0.0-beta.59"
-    "@vuepress/utils" "2.0.0-beta.59"
+    "@vuepress/core" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
     chokidar "^3.5.3"
 
 "@vuepress/plugin-prismjs@2.0.0-beta.59":
@@ -1754,6 +1972,13 @@
   resolved "https://registry.npmmirror.com/@vuepress/plugin-prismjs/-/plugin-prismjs-2.0.0-beta.59.tgz"
   dependencies:
     "@vuepress/core" "2.0.0-beta.59"
+    prismjs "^1.29.0"
+
+"@vuepress/plugin-prismjs@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/plugin-prismjs/-/plugin-prismjs-2.0.0-beta.63.tgz#97060c5972f1dc911846b58b84497fd41fe3180d"
+  dependencies:
+    "@vuepress/core" "2.0.0-beta.63"
     prismjs "^1.29.0"
 
 "@vuepress/plugin-pwa@2.0.0-beta.59":
@@ -1795,16 +2020,16 @@
     "@vuepress/core" "2.0.0-beta.59"
     shiki "^0.11.1"
 
-"@vuepress/plugin-theme-data@2.0.0-beta.59":
-  version "2.0.0-beta.59"
-  resolved "https://registry.npmmirror.com/@vuepress/plugin-theme-data/-/plugin-theme-data-2.0.0-beta.59.tgz"
+"@vuepress/plugin-theme-data@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/plugin-theme-data/-/plugin-theme-data-2.0.0-beta.63.tgz#3244a83fd2327419d166eb53bf67db549c063041"
   dependencies:
-    "@vue/devtools-api" "^6.4.5"
-    "@vuepress/client" "2.0.0-beta.59"
-    "@vuepress/core" "2.0.0-beta.59"
-    "@vuepress/shared" "2.0.0-beta.59"
-    "@vuepress/utils" "2.0.0-beta.59"
-    vue "^3.2.45"
+    "@vue/devtools-api" "^6.5.0"
+    "@vuepress/client" "2.0.0-beta.63"
+    "@vuepress/core" "2.0.0-beta.63"
+    "@vuepress/shared" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
+    vue "^3.3.4"
 
 "@vuepress/shared@2.0.0-beta.59":
   version "2.0.0-beta.59"
@@ -1813,28 +2038,36 @@
     "@mdit-vue/types" "^0.11.0"
     "@vue/shared" "^3.2.45"
 
-"@vuepress/theme-default@2.0.0-beta.59":
-  version "2.0.0-beta.59"
-  resolved "https://registry.npmmirror.com/@vuepress/theme-default/-/theme-default-2.0.0-beta.59.tgz"
+"@vuepress/shared@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/shared/-/shared-2.0.0-beta.63.tgz#6c404f7842fa331dc7d7c7f3a740594285934fca"
   dependencies:
-    "@vuepress/client" "2.0.0-beta.59"
-    "@vuepress/core" "2.0.0-beta.59"
-    "@vuepress/plugin-active-header-links" "2.0.0-beta.59"
-    "@vuepress/plugin-back-to-top" "2.0.0-beta.59"
-    "@vuepress/plugin-container" "2.0.0-beta.59"
-    "@vuepress/plugin-external-link-icon" "2.0.0-beta.59"
-    "@vuepress/plugin-git" "2.0.0-beta.59"
-    "@vuepress/plugin-medium-zoom" "2.0.0-beta.59"
-    "@vuepress/plugin-nprogress" "2.0.0-beta.59"
-    "@vuepress/plugin-palette" "2.0.0-beta.59"
-    "@vuepress/plugin-prismjs" "2.0.0-beta.59"
-    "@vuepress/plugin-theme-data" "2.0.0-beta.59"
-    "@vuepress/shared" "2.0.0-beta.59"
-    "@vuepress/utils" "2.0.0-beta.59"
-    "@vueuse/core" "^9.6.0"
-    sass "^1.56.2"
-    vue "^3.2.45"
-    vue-router "^4.1.6"
+    "@mdit-vue/types" "^0.12.0"
+    "@vue/shared" "^3.3.4"
+
+"@vuepress/theme-default@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/theme-default/-/theme-default-2.0.0-beta.63.tgz#90b1173a245bc8c9c63ee2394b506c08d105a34d"
+  dependencies:
+    "@vuepress/client" "2.0.0-beta.63"
+    "@vuepress/core" "2.0.0-beta.63"
+    "@vuepress/plugin-active-header-links" "2.0.0-beta.63"
+    "@vuepress/plugin-back-to-top" "2.0.0-beta.63"
+    "@vuepress/plugin-container" "2.0.0-beta.63"
+    "@vuepress/plugin-external-link-icon" "2.0.0-beta.63"
+    "@vuepress/plugin-git" "2.0.0-beta.63"
+    "@vuepress/plugin-medium-zoom" "2.0.0-beta.63"
+    "@vuepress/plugin-nprogress" "2.0.0-beta.63"
+    "@vuepress/plugin-palette" "2.0.0-beta.63"
+    "@vuepress/plugin-prismjs" "2.0.0-beta.63"
+    "@vuepress/plugin-theme-data" "2.0.0-beta.63"
+    "@vuepress/shared" "2.0.0-beta.63"
+    "@vuepress/utils" "2.0.0-beta.63"
+    "@vueuse/core" "^10.1.2"
+    sass "^1.63.2"
+    sass-loader "^13.3.1"
+    vue "^3.3.4"
+    vue-router "^4.2.2"
 
 "@vuepress/utils@2.0.0-beta.59":
   version "2.0.0-beta.59"
@@ -1852,6 +2085,22 @@
     picocolors "^1.0.0"
     upath "^2.0.1"
 
+"@vuepress/utils@2.0.0-beta.63":
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/@vuepress/utils/-/utils-2.0.0-beta.63.tgz#7b3d0ad4ce585a70acf451cc361d972ed220bc15"
+  dependencies:
+    "@types/debug" "^4.1.8"
+    "@types/fs-extra" "^11.0.1"
+    "@types/hash-sum" "^1.0.0"
+    "@vuepress/shared" "2.0.0-beta.63"
+    debug "^4.3.4"
+    fs-extra "^11.1.1"
+    globby "^13.1.4"
+    hash-sum "^2.0.0"
+    ora "^6.3.1"
+    picocolors "^1.0.0"
+    upath "^2.0.1"
+
 "@vueuse/core@9.8.2", "@vueuse/core@^9.6.0":
   version "9.8.2"
   resolved "https://registry.npmmirror.com/@vueuse/core/-/core-9.8.2.tgz"
@@ -1861,9 +2110,28 @@
     "@vueuse/shared" "9.8.2"
     vue-demi "*"
 
+"@vueuse/core@^10.1.2":
+  version "10.1.2"
+  resolved "https://registry.npmmirror.com/@vueuse/core/-/core-10.1.2.tgz#2499eadec36c5d7109338e3a2b73725040ae8011"
+  dependencies:
+    "@types/web-bluetooth" "^0.0.17"
+    "@vueuse/metadata" "10.1.2"
+    "@vueuse/shared" "10.1.2"
+    vue-demi ">=0.14.0"
+
+"@vueuse/metadata@10.1.2":
+  version "10.1.2"
+  resolved "https://registry.npmmirror.com/@vueuse/metadata/-/metadata-10.1.2.tgz#d8ffe557b1042efd03a0aa88540a00c25d193ee3"
+
 "@vueuse/metadata@9.8.2":
   version "9.8.2"
   resolved "https://registry.npmmirror.com/@vueuse/metadata/-/metadata-9.8.2.tgz"
+
+"@vueuse/shared@10.1.2":
+  version "10.1.2"
+  resolved "https://registry.npmmirror.com/@vueuse/shared/-/shared-10.1.2.tgz#31d8733a217a6396eb67706319133bf62cdd8baa"
+  dependencies:
+    vue-demi ">=0.14.0"
 
 "@vueuse/shared@9.8.2":
   version "9.8.2"
@@ -2033,12 +2301,12 @@ at-least-node@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmmirror.com/at-least-node/-/at-least-node-1.0.0.tgz"
 
-autoprefixer@^10.4.13:
-  version "10.4.13"
-  resolved "https://registry.npmmirror.com/autoprefixer/-/autoprefixer-10.4.13.tgz"
+autoprefixer@^10.4.14:
+  version "10.4.14"
+  resolved "https://registry.npmmirror.com/autoprefixer/-/autoprefixer-10.4.14.tgz#e28d49902f8e759dd25b153264e862df2705f79d"
   dependencies:
-    browserslist "^4.21.4"
-    caniuse-lite "^1.0.30001426"
+    browserslist "^4.21.5"
+    caniuse-lite "^1.0.30001464"
     fraction.js "^4.2.0"
     normalize-range "^0.1.2"
     picocolors "^1.0.0"
@@ -2137,6 +2405,15 @@ browserslist@^4.21.3, browserslist@^4.21.4:
     electron-to-chromium "^1.4.251"
     node-releases "^2.0.6"
     update-browserslist-db "^1.0.9"
+
+browserslist@^4.21.5:
+  version "4.21.7"
+  resolved "https://registry.npmmirror.com/browserslist/-/browserslist-4.21.7.tgz#e2b420947e5fb0a58e8f4668ae6e23488127e551"
+  dependencies:
+    caniuse-lite "^1.0.30001489"
+    electron-to-chromium "^1.4.411"
+    node-releases "^2.0.12"
+    update-browserslist-db "^1.0.11"
 
 buffer-from@^1.0.0:
   version "1.1.2"
@@ -2250,9 +2527,13 @@ camelcase@^7.0.0:
   version "7.0.1"
   resolved "https://registry.npmmirror.com/camelcase/-/camelcase-7.0.1.tgz"
 
-caniuse-lite@^1.0.30001400, caniuse-lite@^1.0.30001426:
+caniuse-lite@^1.0.30001400:
   version "1.0.30001441"
   resolved "https://registry.npmmirror.com/caniuse-lite/-/caniuse-lite-1.0.30001441.tgz"
+
+caniuse-lite@^1.0.30001464, caniuse-lite@^1.0.30001489:
+  version "1.0.30001495"
+  resolved "https://registry.npmmirror.com/caniuse-lite/-/caniuse-lite-1.0.30001495.tgz#64a0ccef1911a9dcff647115b4430f8eff1ef2d9"
 
 chalk@^2.0.0, chalk@^2.3.0:
   version "2.4.2"
@@ -2568,6 +2849,10 @@ cssesc@^3.0.0:
 csstype@^2.6.8:
   version "2.6.21"
   resolved "https://registry.npmmirror.com/csstype/-/csstype-2.6.21.tgz"
+
+csstype@^3.1.1:
+  version "3.1.2"
+  resolved "https://registry.npmmirror.com/csstype/-/csstype-3.1.2.tgz#1d4bf9d572f11c14031f0436e1c10bc1f571f50b"
 
 cytoscape-cose-bilkent@^4.1.0:
   version "4.1.0"
@@ -2964,6 +3249,10 @@ electron-to-chromium@^1.4.251:
   version "1.4.284"
   resolved "https://registry.npmmirror.com/electron-to-chromium/-/electron-to-chromium-1.4.284.tgz"
 
+electron-to-chromium@^1.4.411:
+  version "1.4.425"
+  resolved "https://registry.npmmirror.com/electron-to-chromium/-/electron-to-chromium-1.4.425.tgz#399df13091b836d28283a545c25c8e4d9da86da8"
+
 emoji-regex@^8.0.0:
   version "8.0.0"
   resolved "https://registry.npmmirror.com/emoji-regex/-/emoji-regex-8.0.0.tgz"
@@ -3058,32 +3347,32 @@ es-to-primitive@^1.2.1:
     is-date-object "^1.0.1"
     is-symbol "^1.0.2"
 
-esbuild@^0.16.3, esbuild@^0.16.5:
-  version "0.16.10"
-  resolved "https://registry.npmmirror.com/esbuild/-/esbuild-0.16.10.tgz"
+esbuild@^0.17.5, esbuild@~0.17.19:
+  version "0.17.19"
+  resolved "https://registry.npmmirror.com/esbuild/-/esbuild-0.17.19.tgz#087a727e98299f0462a3d0bcdd9cd7ff100bd955"
   optionalDependencies:
-    "@esbuild/android-arm" "0.16.10"
-    "@esbuild/android-arm64" "0.16.10"
-    "@esbuild/android-x64" "0.16.10"
-    "@esbuild/darwin-arm64" "0.16.10"
-    "@esbuild/darwin-x64" "0.16.10"
-    "@esbuild/freebsd-arm64" "0.16.10"
-    "@esbuild/freebsd-x64" "0.16.10"
-    "@esbuild/linux-arm" "0.16.10"
-    "@esbuild/linux-arm64" "0.16.10"
-    "@esbuild/linux-ia32" "0.16.10"
-    "@esbuild/linux-loong64" "0.16.10"
-    "@esbuild/linux-mips64el" "0.16.10"
-    "@esbuild/linux-ppc64" "0.16.10"
-    "@esbuild/linux-riscv64" "0.16.10"
-    "@esbuild/linux-s390x" "0.16.10"
-    "@esbuild/linux-x64" "0.16.10"
-    "@esbuild/netbsd-x64" "0.16.10"
-    "@esbuild/openbsd-x64" "0.16.10"
-    "@esbuild/sunos-x64" "0.16.10"
-    "@esbuild/win32-arm64" "0.16.10"
-    "@esbuild/win32-ia32" "0.16.10"
-    "@esbuild/win32-x64" "0.16.10"
+    "@esbuild/android-arm" "0.17.19"
+    "@esbuild/android-arm64" "0.17.19"
+    "@esbuild/android-x64" "0.17.19"
+    "@esbuild/darwin-arm64" "0.17.19"
+    "@esbuild/darwin-x64" "0.17.19"
+    "@esbuild/freebsd-arm64" "0.17.19"
+    "@esbuild/freebsd-x64" "0.17.19"
+    "@esbuild/linux-arm" "0.17.19"
+    "@esbuild/linux-arm64" "0.17.19"
+    "@esbuild/linux-ia32" "0.17.19"
+    "@esbuild/linux-loong64" "0.17.19"
+    "@esbuild/linux-mips64el" "0.17.19"
+    "@esbuild/linux-ppc64" "0.17.19"
+    "@esbuild/linux-riscv64" "0.17.19"
+    "@esbuild/linux-s390x" "0.17.19"
+    "@esbuild/linux-x64" "0.17.19"
+    "@esbuild/netbsd-x64" "0.17.19"
+    "@esbuild/openbsd-x64" "0.17.19"
+    "@esbuild/sunos-x64" "0.17.19"
+    "@esbuild/win32-arm64" "0.17.19"
+    "@esbuild/win32-ia32" "0.17.19"
+    "@esbuild/win32-x64" "0.17.19"
 
 escalade@^3.1.1:
   version "3.1.1"
@@ -3263,6 +3552,20 @@ execa@^6.1.0:
     signal-exit "^3.0.7"
     strip-final-newline "^3.0.0"
 
+execa@^7.1.1:
+  version "7.1.1"
+  resolved "https://registry.npmmirror.com/execa/-/execa-7.1.1.tgz#3eb3c83d239488e7b409d48e8813b76bb55c9c43"
+  dependencies:
+    cross-spawn "^7.0.3"
+    get-stream "^6.0.1"
+    human-signals "^4.3.0"
+    is-stream "^3.0.0"
+    merge-stream "^2.0.0"
+    npm-run-path "^5.1.0"
+    onetime "^6.0.0"
+    signal-exit "^3.0.7"
+    strip-final-newline "^3.0.0"
+
 extend-shallow@^2.0.1:
   version "2.0.1"
   resolved "https://registry.npmmirror.com/extend-shallow/-/extend-shallow-2.0.1.tgz"
@@ -3376,6 +3679,14 @@ fraction.js@^4.2.0:
 fs-extra@^11.1.0:
   version "11.1.0"
   resolved "https://registry.npmmirror.com/fs-extra/-/fs-extra-11.1.0.tgz"
+  dependencies:
+    graceful-fs "^4.2.0"
+    jsonfile "^6.0.1"
+    universalify "^2.0.0"
+
+fs-extra@^11.1.1:
+  version "11.1.1"
+  resolved "https://registry.npmmirror.com/fs-extra/-/fs-extra-11.1.1.tgz#da69f7c39f3b002378b0954bb6ae7efdc0876e2d"
   dependencies:
     graceful-fs "^4.2.0"
     jsonfile "^6.0.1"
@@ -3541,6 +3852,16 @@ globby@^13.1.3:
     merge2 "^1.4.1"
     slash "^4.0.0"
 
+globby@^13.1.4:
+  version "13.1.4"
+  resolved "https://registry.npmmirror.com/globby/-/globby-13.1.4.tgz#2f91c116066bcec152465ba36e5caa4a13c01317"
+  dependencies:
+    dir-glob "^3.0.1"
+    fast-glob "^3.2.11"
+    ignore "^5.2.0"
+    merge2 "^1.4.1"
+    slash "^4.0.0"
+
 gopd@^1.0.1:
   version "1.0.1"
   resolved "https://registry.npmmirror.com/gopd/-/gopd-1.0.1.tgz"
@@ -3698,6 +4019,10 @@ https-proxy-agent@^5.0.0:
 human-signals@^3.0.1:
   version "3.0.1"
   resolved "https://registry.npmmirror.com/human-signals/-/human-signals-3.0.1.tgz"
+
+human-signals@^4.3.0:
+  version "4.3.1"
+  resolved "https://registry.npmmirror.com/human-signals/-/human-signals-4.3.1.tgz#ab7f811e851fca97ffbd2c1fe9a958964de321b2"
 
 humanize-ms@^1.2.1:
   version "1.2.1"
@@ -4126,6 +4451,10 @@ klona@^2.0.4:
   version "2.0.5"
   resolved "https://registry.npmmirror.com/klona/-/klona-2.0.5.tgz"
 
+klona@^2.0.6:
+  version "2.0.6"
+  resolved "https://registry.npmmirror.com/klona/-/klona-2.0.6.tgz#85bffbf819c03b2f53270412420a4555ef882e22"
+
 latest-version@^7.0.0:
   version "7.0.0"
   resolved "https://registry.npmmirror.com/latest-version/-/latest-version-7.0.0.tgz"
@@ -4269,6 +4598,12 @@ magic-string@^0.25.0, magic-string@^0.25.7:
   dependencies:
     sourcemap-codec "^1.4.8"
 
+magic-string@^0.30.0:
+  version "0.30.0"
+  resolved "https://registry.npmmirror.com/magic-string/-/magic-string-0.30.0.tgz#fd58a4748c5c4547338a424e90fa5dd17f4de529"
+  dependencies:
+    "@jridgewell/sourcemap-codec" "^1.4.13"
+
 make-dir@^2.0.0:
   version "2.1.0"
   resolved "https://registry.npmmirror.com/make-dir/-/make-dir-2.1.0.tgz"
@@ -4321,6 +4656,10 @@ make-fetch-happen@^11.0.0:
 markdown-it-anchor@^8.6.5:
   version "8.6.6"
   resolved "https://registry.npmmirror.com/markdown-it-anchor/-/markdown-it-anchor-8.6.6.tgz"
+
+markdown-it-anchor@^8.6.7:
+  version "8.6.7"
+  resolved "https://registry.npmmirror.com/markdown-it-anchor/-/markdown-it-anchor-8.6.7.tgz#ee6926daf3ad1ed5e4e3968b1740eef1c6399634"
 
 markdown-it-container@^3.0.0:
   version "3.0.0"
@@ -4542,6 +4881,10 @@ nanoid@^3.3.4:
   version "3.3.4"
   resolved "https://registry.npmmirror.com/nanoid/-/nanoid-3.3.4.tgz"
 
+nanoid@^3.3.6:
+  version "3.3.6"
+  resolved "https://registry.npmmirror.com/nanoid/-/nanoid-3.3.6.tgz#443380c856d6e9f9824267d960b4236ad583ea4c"
+
 natural-compare-lite@^1.4.0:
   version "1.4.0"
   resolved "https://registry.npmmirror.com/natural-compare-lite/-/natural-compare-lite-1.4.0.tgz"
@@ -4578,6 +4921,10 @@ node-gyp@^9.0.0:
     semver "^7.3.5"
     tar "^6.1.2"
     which "^2.0.2"
+
+node-releases@^2.0.12:
+  version "2.0.12"
+  resolved "https://registry.npmmirror.com/node-releases/-/node-releases-2.0.12.tgz#35627cc224a23bfb06fb3380f2b3afaaa7eb1039"
 
 node-releases@^2.0.6:
   version "2.0.8"
@@ -4781,6 +5128,20 @@ ora@^6.1.2:
     strip-ansi "^7.0.1"
     wcwidth "^1.0.1"
 
+ora@^6.3.1:
+  version "6.3.1"
+  resolved "https://registry.npmmirror.com/ora/-/ora-6.3.1.tgz#a4e9e5c2cf5ee73c259e8b410273e706a2ad3ed6"
+  dependencies:
+    chalk "^5.0.0"
+    cli-cursor "^4.0.0"
+    cli-spinners "^2.6.1"
+    is-interactive "^2.0.0"
+    is-unicode-supported "^1.1.0"
+    log-symbols "^5.1.0"
+    stdin-discarder "^0.1.0"
+    strip-ansi "^7.0.1"
+    wcwidth "^1.0.1"
+
 p-cancelable@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npmmirror.com/p-cancelable/-/p-cancelable-3.0.0.tgz"
@@ -4955,11 +5316,19 @@ postcss-value-parser@^4.2.0:
   version "4.2.0"
   resolved "https://registry.npmmirror.com/postcss-value-parser/-/postcss-value-parser-4.2.0.tgz"
 
-postcss@^8.1.10, postcss@^8.4.20:
+postcss@^8.1.10:
   version "8.4.20"
   resolved "https://registry.npmmirror.com/postcss/-/postcss-8.4.20.tgz"
   dependencies:
     nanoid "^3.3.4"
+    picocolors "^1.0.0"
+    source-map-js "^1.0.2"
+
+postcss@^8.4.23, postcss@^8.4.24:
+  version "8.4.24"
+  resolved "https://registry.npmmirror.com/postcss/-/postcss-8.4.24.tgz#f714dba9b2284be3cc07dbd2fc57ee4dc972d2df"
+  dependencies:
+    nanoid "^3.3.6"
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
 
@@ -5200,7 +5569,7 @@ resolve-from@^4.0.0:
   version "4.0.0"
   resolved "https://registry.npmmirror.com/resolve-from/-/resolve-from-4.0.0.tgz"
 
-resolve@^1.14.2, resolve@^1.19.0, resolve@^1.22.1:
+resolve@^1.14.2, resolve@^1.19.0:
   version "1.22.1"
   resolved "https://registry.npmmirror.com/resolve/-/resolve-1.22.1.tgz"
   dependencies:
@@ -5269,9 +5638,9 @@ rollup@^2.43.1:
   optionalDependencies:
     fsevents "~2.3.2"
 
-rollup@^3.7.0, rollup@^3.7.4:
-  version "3.7.5"
-  resolved "https://registry.npmmirror.com/rollup/-/rollup-3.7.5.tgz"
+rollup@^3.21.0, rollup@^3.24.0:
+  version "3.24.0"
+  resolved "https://registry.npmmirror.com/rollup/-/rollup-3.24.0.tgz#865dee1fe0bb528747b59914dfab25e6f480e370"
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -5318,9 +5687,24 @@ sass-loader@13.2.0:
     klona "^2.0.4"
     neo-async "^2.6.2"
 
+sass-loader@^13.3.1:
+  version "13.3.1"
+  resolved "https://registry.npmmirror.com/sass-loader/-/sass-loader-13.3.1.tgz#32ee5791434b9b4dbd1adcce76fcb4cea49cc12c"
+  dependencies:
+    klona "^2.0.6"
+    neo-async "^2.6.2"
+
 sass@^1.56.2:
   version "1.57.1"
   resolved "https://registry.npmmirror.com/sass/-/sass-1.57.1.tgz"
+  dependencies:
+    chokidar ">=3.0.0 <4.0.0"
+    immutable "^4.0.0"
+    source-map-js ">=0.6.2 <2.0.0"
+
+sass@^1.63.2:
+  version "1.63.2"
+  resolved "https://registry.npmmirror.com/sass/-/sass-1.63.2.tgz#75f7d9a8e67d1d5b98a989507f4d98b6067b1f75"
   dependencies:
     chokidar ">=3.0.0 <4.0.0"
     immutable "^4.0.0"
@@ -5539,6 +5923,12 @@ ssri@^9.0.0:
   resolved "https://registry.npmmirror.com/ssri/-/ssri-9.0.1.tgz"
   dependencies:
     minipass "^3.1.1"
+
+stdin-discarder@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.npmmirror.com/stdin-discarder/-/stdin-discarder-0.1.0.tgz#22b3e400393a8e28ebf53f9958f3880622efde21"
+  dependencies:
+    bl "^5.0.0"
 
 string-argv@^0.3.1:
   version "0.3.1"
@@ -5882,6 +6272,13 @@ upath@^2.0.1:
   version "2.0.1"
   resolved "https://registry.npmmirror.com/upath/-/upath-2.0.1.tgz"
 
+update-browserslist-db@^1.0.11:
+  version "1.0.11"
+  resolved "https://registry.npmmirror.com/update-browserslist-db/-/update-browserslist-db-1.0.11.tgz#9a2a641ad2907ae7b3616506f4b977851db5b940"
+  dependencies:
+    escalade "^3.1.1"
+    picocolors "^1.0.0"
+
 update-browserslist-db@^1.0.9:
   version "1.0.10"
   resolved "https://registry.npmmirror.com/update-browserslist-db/-/update-browserslist-db-1.0.10.tgz"
@@ -5939,14 +6336,13 @@ validate-npm-package-name@^5.0.0:
   dependencies:
     builtins "^5.0.0"
 
-vite@~4.0.1:
-  version "4.0.3"
-  resolved "https://registry.npmmirror.com/vite/-/vite-4.0.3.tgz"
+vite@~4.3.9:
+  version "4.3.9"
+  resolved "https://registry.npmmirror.com/vite/-/vite-4.3.9.tgz#db896200c0b1aa13b37cdc35c9e99ee2fdd5f96d"
   dependencies:
-    esbuild "^0.16.3"
-    postcss "^8.4.20"
-    resolve "^1.22.1"
-    rollup "^3.7.0"
+    esbuild "^0.17.5"
+    postcss "^8.4.23"
+    rollup "^3.21.0"
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -5961,6 +6357,10 @@ vscode-textmate@^6.0.0:
 vue-demi@*:
   version "0.13.11"
   resolved "https://registry.npmmirror.com/vue-demi/-/vue-demi-0.13.11.tgz"
+
+vue-demi@>=0.14.0:
+  version "0.14.5"
+  resolved "https://registry.npmmirror.com/vue-demi/-/vue-demi-0.14.5.tgz#676d0463d1a1266d5ab5cba932e043d8f5f2fbd9"
 
 vue-eslint-parser@^9.0.1:
   version "9.1.0"
@@ -5980,6 +6380,12 @@ vue-router@^4.1.6:
   dependencies:
     "@vue/devtools-api" "^6.4.5"
 
+vue-router@^4.2.2:
+  version "4.2.2"
+  resolved "https://registry.npmmirror.com/vue-router/-/vue-router-4.2.2.tgz#b0097b66d89ca81c0986be03da244c7b32a4fd81"
+  dependencies:
+    "@vue/devtools-api" "^6.5.0"
+
 vue@3.2.45, vue@^3.2.45:
   version "3.2.45"
   resolved "https://registry.npmmirror.com/vue/-/vue-3.2.45.tgz"
@@ -5989,6 +6395,16 @@ vue@3.2.45, vue@^3.2.45:
     "@vue/runtime-dom" "3.2.45"
     "@vue/server-renderer" "3.2.45"
     "@vue/shared" "3.2.45"
+
+vue@^3.3.4:
+  version "3.3.4"
+  resolved "https://registry.npmmirror.com/vue/-/vue-3.3.4.tgz#8ed945d3873667df1d0fcf3b2463ada028f88bd6"
+  dependencies:
+    "@vue/compiler-dom" "3.3.4"
+    "@vue/compiler-sfc" "3.3.4"
+    "@vue/runtime-dom" "3.3.4"
+    "@vue/server-renderer" "3.3.4"
+    "@vue/shared" "3.3.4"
 
 vuepress-plugin-copy-code2@2.0.0-beta.143:
   version "2.0.0-beta.143"
@@ -6062,20 +6478,21 @@ vuepress-shared@2.0.0-beta.143:
     vue "^3.2.45"
     vue-router "^4.1.6"
 
-vuepress-vite@2.0.0-beta.59:
-  version "2.0.0-beta.59"
-  resolved "https://registry.npmmirror.com/vuepress-vite/-/vuepress-vite-2.0.0-beta.59.tgz"
+vuepress-vite@2.0.0-beta.63:
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/vuepress-vite/-/vuepress-vite-2.0.0-beta.63.tgz#1d69329ba09c427a6473043d576a6822106c0403"
   dependencies:
-    "@vuepress/bundler-vite" "2.0.0-beta.59"
-    "@vuepress/cli" "2.0.0-beta.59"
-    "@vuepress/core" "2.0.0-beta.59"
-    "@vuepress/theme-default" "2.0.0-beta.59"
+    "@vuepress/bundler-vite" "2.0.0-beta.63"
+    "@vuepress/cli" "2.0.0-beta.63"
+    "@vuepress/core" "2.0.0-beta.63"
+    "@vuepress/theme-default" "2.0.0-beta.63"
+    vue "^3.3.4"
 
-vuepress@2.0.0-beta.59:
-  version "2.0.0-beta.59"
-  resolved "https://registry.npmmirror.com/vuepress/-/vuepress-2.0.0-beta.59.tgz"
+vuepress@2.0.0-beta.63:
+  version "2.0.0-beta.63"
+  resolved "https://registry.npmmirror.com/vuepress/-/vuepress-2.0.0-beta.63.tgz#a6c0799231a7cc280f4086cbba342a118b168312"
   dependencies:
-    vuepress-vite "2.0.0-beta.59"
+    vuepress-vite "2.0.0-beta.63"
 
 wcwidth@^1.0.1:
   version "1.0.1"
